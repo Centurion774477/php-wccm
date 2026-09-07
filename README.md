@@ -49,8 +49,7 @@ The output is formatted in the same sense as the original version, but with a co
 Here's how it looks:
 
 ```
-Drink | dɹɪŋkʰ |
-noun verb
+Drink | dɹɪŋkʰ | noun verb
 Plural: drinks
 
 Meanings:
